@@ -1,0 +1,40 @@
+
+
+.front {
+ color: black;
+ background-color: #FFD800;
+ border: 2px solid black;
+ border-radius: 10px 10px 0px 0px; 
+ padding: 15px;
+ width: auto;'  
+}
+
+
+.card {
+ font-family: monospace;
+ font-size: 20px;
+ text-align: left;
+ color: black;
+ background-color: white;  
+ padding-left: 30px;
+ padding-rigth: 30px;
+ line-height: 1.1em;
+ letter-spacing: 1px;
+ width: 600;
+ margin: auto;
+ padding-top: 40px;
+}
+
+
+
+.back {
+ color: black;
+ background-color: white;
+ border: 2px solid black;
+ border-radius: 0px 0px 10px 10px; 
+ position:relative;
+ top: -5px;
+ padding:15px; 
+}
+
+
